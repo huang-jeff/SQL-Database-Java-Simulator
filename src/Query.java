@@ -64,8 +64,6 @@ import java.util.*;
  * </ul>
  * 
  * <br>
- * @author  Pawel Szczurko (pszczurko@gmail.com)
- * @version 1.0, April 2015
  */
 public class Query {
     /*########## Hello Query class instance vars ###########*/
